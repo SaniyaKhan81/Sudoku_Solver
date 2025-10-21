@@ -1,7 +1,7 @@
 # Sudoku_Solver
 This project is a Sudoku Solver built using Java Swing, designed to provide an interactive and user-friendly interface for solving Sudoku puzzles. The application allows users to input Sudoku boards manually and uses a backtracking algorithm to compute the solution efficiently.
 
-##Features
+Features
 
 Intuitive graphical interface built with Java Swing.
 
@@ -13,7 +13,7 @@ Real-time validation and error handling for invalid entries.
 
 Displays the solved Sudoku instantly upon execution.
 
-##Technologies Used
+Technologies Used
 
 Language: Java
 
